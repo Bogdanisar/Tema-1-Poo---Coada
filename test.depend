@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1520079728 source:d:\coding\c++\poo\tema 1 - coada\main.cpp
+	<bits/stdc++.h>
+	"coada.cpp"
+
+1520079728 "
+
+1520079714 source:d:\coding\c++\poo\tema 1 - coada\coada.cpp
+	<iostream>
+	<fstream>
+
+1520079714 
+
+1520079714 d:\coding\c++\poo\tema 1 - coada\coada.cpp
+	<iostream>
+	<fstream>
+
+1520764585 source:d:\diverse\facultate\an 1 sem 2\poo\laborator, seminar\tema 1 - coada\coada.cpp
+	<iostream>
+	<fstream>
+
+1520764482 source:d:\diverse\facultate\an 1 sem 2\poo\laborator, seminar\tema 1 - coada\main.cpp
+	<bits/stdc++.h>
+	"coada.cpp"
+
+1520764585 d:\diverse\facultate\an 1 sem 2\poo\laborator, seminar\tema 1 - coada\coada.cpp
+	<iostream>
+	<fstream>
+
+1520701713 source:/media/bogdanisar/4EEC6DD5EC6DB83B/Diverse/Facultate/An 1 sem 2/POO/Laborator, Seminar/Tema 1 - Coada/main.cpp
+	<bits/stdc++.h>
+	"coada.cpp"
+
+1520702359 /media/bogdanisar/4EEC6DD5EC6DB83B/Diverse/Facultate/An 1 sem 2/POO/Laborator, Seminar/Tema 1 - Coada/coada.cpp
+	<iostream>
+	<fstream>
+
+1520702288 source:/media/bogdanisar/4EEC6DD5EC6DB83B/Diverse/Facultate/An 1 sem 2/POO/Laborator, Seminar/Tema 1 - Coada/coada.cpp
+	<iostream>
+	<fstream>
+
+1520764921 source:d:\diverse\facultate\an 1 sem 2\poo\laborator - seminar\tema 1 - coada\coada.cpp
+	<iostream>
+	<fstream>
+
+1520766603 source:d:\diverse\facultate\an 1 sem 2\poo\laborator - seminar\tema 1 - coada\main.cpp
+	<fstream>
+	"coada.h"
+
+1520766529 d:\diverse\facultate\an 1 sem 2\poo\laborator - seminar\tema 1 - coada\coada.cpp
+
+1520766599 d:\diverse\facultate\an 1 sem 2\poo\laborator - seminar\tema 1 - coada\coada.h
+	<iostream>
+	<fstream>
+	"coada.cpp"
+
